@@ -1,3 +1,8 @@
+---
+## Title: "Olusegun Blog"
+# Date: 2020-07-24
+---
+
 ## Milestones achieved
 1. I applied to Gem
 
