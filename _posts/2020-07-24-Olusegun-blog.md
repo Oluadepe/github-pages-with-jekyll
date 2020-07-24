@@ -1,6 +1,6 @@
 ---
-## Title: "Olusegun Blog"
-# Date: 2020-07-24
+title: "Olusegun Blog"
+date: 2020-07-24
 ---
 
 ## Milestones achieved
