@@ -1,3 +1,5 @@
-# Welcome to my blog
+# Welcome Olusegun Mayungbe blog
 
-I'm glad you are here. I plan to talk about ...
+## I will like to share many things you dont know about me
+
+Where do i start from?
